@@ -1,0 +1,22 @@
+{
+  "name": "discord-mc-maintenance-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord Bot to publish maintenance msgs with one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loudic85/discord-mc-maintenance-bot.git"
+  },
+  "author": "Loudic85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loudic85/discord-mc-maintenance-bot/issues"
+  },
+  "homepage": "https://github.com/Loudic85/discord-mc-maintenance-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
